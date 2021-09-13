@@ -1,5 +1,6 @@
 # MasterPlanningSchedule
 This algorithm was written while testing a few things on python, so it wasn't written with the thought it being in the best format.
+
 Repository with algorithms for calculating MPS (master planning schedule)
 
 Strategies available would be: fixed lot (fixed), minimum lot (minimum), demand tracking (escort) or flat.
